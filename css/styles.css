@@ -1,0 +1,11 @@
+.jumbotron {
+  color: #FF0000;
+  font-weight:800;
+}
+p {
+  color: blue
+}
+.special {
+  color: green;
+  font-style: italic;
+}
